@@ -425,6 +425,30 @@
         "flowagent"
       ],
       "license": "MIT"
+    },
+    {
+      "name": "threejs-sculpt-dna",
+      "source": {
+        "source": "github",
+        "repo": "hyeonsangjeon/Three.js-Object-Sculptor-github-Copilot-Plugin"
+      },
+      "description": "Reconstruct reference images as quality-gated procedural Three.js models and coverage-curated deterministic asset families.",
+      "version": "0.4.2",
+      "author": {
+        "name": "hyeonsangjeon",
+        "url": "https://github.com/hyeonsangjeon"
+      },
+      "homepage": "https://hyeonsangjeon.github.io/Three.js-Object-Sculptor-github-Copilot-Plugin/",
+      "repository": "https://github.com/hyeonsangjeon/Three.js-Object-Sculptor-github-Copilot-Plugin",
+      "keywords": [
+        "github-copilot",
+        "threejs",
+        "procedural-3d",
+        "object-reconstruction",
+        "asset-variants",
+        "sculpt-dna"
+      ],
+      "license": "MIT"
     }
   ]
 }
