@@ -430,16 +430,16 @@
       "name": "threejs-sculpt-dna",
       "source": {
         "source": "github",
-        "repo": "hyeonsangjeon/Three.js-Object-Sculptor-github-Copilot-Plugin"
+        "repo": "hyeonsangjeon/threejs-sculpt-dna"
       },
       "description": "Reconstruct reference images as quality-gated procedural Three.js models and coverage-curated deterministic asset families.",
-      "version": "0.4.2",
+      "version": "0.4.3",
       "author": {
         "name": "hyeonsangjeon",
         "url": "https://github.com/hyeonsangjeon"
       },
-      "homepage": "https://hyeonsangjeon.github.io/Three.js-Object-Sculptor-github-Copilot-Plugin/",
-      "repository": "https://github.com/hyeonsangjeon/Three.js-Object-Sculptor-github-Copilot-Plugin",
+      "homepage": "https://hyeonsangjeon.github.io/threejs-sculpt-dna/",
+      "repository": "https://github.com/hyeonsangjeon/threejs-sculpt-dna",
       "keywords": [
         "github-copilot",
         "threejs",
